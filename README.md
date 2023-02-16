@@ -34,4 +34,4 @@ Launch application with below command.
 
 # Choices made
 Used axios for fetching response from the api and route-router-dom for routing purpose
-Separated style files, components, pages, and Context files for better understanding and generic purpose.
+Separated style files, components, pages, and Context files for Separation of Concern and to make it more generic.
